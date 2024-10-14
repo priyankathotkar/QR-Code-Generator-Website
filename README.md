@@ -1,4 +1,6 @@
 🎉 QR Code Generator Website 📱✨
+
+
 Welcome to the QR Code Generator project! 🚀 This is a simple yet powerful tool that lets you instantly generate QR codes from any text or link. 🌐
 
 🛠️ What is this project?
