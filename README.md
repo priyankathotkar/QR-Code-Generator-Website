@@ -22,6 +22,7 @@ This project is a QR Code Generator Website built using HTML, CSS, and JavaScrip
 
 🔗 Live Demo
 
-Click here to see it in action!
-🎉
+Click here to see it in action!🎉
+
+https://priyankathotkar.github.io/QR-Code-Generator-Website/Index.html
 
